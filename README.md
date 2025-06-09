@@ -1,4 +1,4 @@
-## NewsGames - Проект на Django (Разработан в PyCharm с использованием SQLite)
+# NewsGames - Проект на Django (Разработан в PyCharm с использованием SQLite)
 
 ## Описание
 
