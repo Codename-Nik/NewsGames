@@ -101,6 +101,7 @@ python manage.py createsuperuser
 
 2 Lesson/
 
+```
 ├── Newsproject/             # Основные настройки проекта Django
 
 │   ├── settings.py       # Настройки проекта
@@ -166,6 +167,7 @@ python manage.py createsuperuser
 ├── venv/                  # Виртуальное окружение (не добавляется в репозиторий)
 
 └── README.md              # Этот файл
+```
 
 ## Рекомендации по разработке в PyCharm:
 
